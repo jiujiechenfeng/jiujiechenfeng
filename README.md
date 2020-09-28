@@ -8,7 +8,7 @@
 
  - 高欣跃/男/1999
  - 本科/石家庄铁道大学
- - 工作年限：10年
+ - 工作年限：0
  - 技术博客：https://www.cnblogs.com/muailiulan/ 
  - Github：https://github.com/jiujiechenfeng ( 有原创repo的Github帐号会极大的提升你的个人品牌  )
 
